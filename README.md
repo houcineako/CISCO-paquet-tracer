@@ -1,8 +1,11 @@
-Designed and implemented a segmented enterprise network in Cisco Packet Tracer using VLANs and Router-on-a-Stick inter-VLAN routing.
+This repository contains my Cisco Packet Tracer networking labs and projects.
 
-The project includes:
-- VLAN creation
-- Access and trunk port configuration
-- Router subinterfaces
+The goal of these projects is to strengthen my skills in:
+- Networking fundamentals
 - IPv4 subnetting
-- Connectivity testing between departments
+- VLANs
+- Inter-VLAN routing
+- Switching and routing
+- Cisco IOS configuration
+- Troubleshooting
+- Enterprise network design
