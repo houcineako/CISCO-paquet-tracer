@@ -1,3 +1,5 @@
+TO ACCESS THE FILES AND PROJECT YOU GOTTA DOWNLOAD THEM RAW 
+
 This repository contains my Cisco Packet Tracer networking labs and projects.
 
 The goal of these projects is to strengthen my skills in:
